@@ -1,1 +1,1 @@
-# openWeather
+# openWeather app is using "openweathermap.org" API. If you want get your own weather info, you will use the this link "https://openweathermap.org/api" create free account for the subsciption and read the API documantion. This app is currently working but Free API's support the a certain number of request.
